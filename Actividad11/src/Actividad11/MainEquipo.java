@@ -45,6 +45,8 @@ package Actividad11;
 
 				System.out.println();
 				System.out.println("¿El equipo es igual al primer equipo creado? " + equipo.IgualEquipo(equipos[0]));
+				
+				System.out.println("No me han aceptado esta linea :(");
 			}
 
 		}
